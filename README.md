@@ -28,3 +28,9 @@ systems-focused.
 8. boomerang
 9. snowman
 10. baloon
+
+### pattern
+<details>
+<summary><strong>?</strong></summary>
+- 
+</details>
