@@ -1,4 +1,4 @@
-# CSYSOPS
+# CSYSNET
 systems-focused.
 
 ### rule
